@@ -1,0 +1,14 @@
+NAME
+Graalug Dugronk
+RACE
+Orc
+AGE
+59
+PROFESSION
+Fletcher
+DESCRIPTION
+They are 6'2"
+and weigh 163 lbs.
+Their hair is Dark Brown and they have a Pageboy cut.
+Their Eyes are Dark Gray.
+ENDDESCRIPTION

@@ -1,0 +1,91 @@
+Scholar
+Adventurer
+Adviser
+Animal Trainer
+Archer
+Armourer
+Assassin
+Baker
+Barber
+Bard
+Barkeeper
+Blacksmith
+Goldsmith
+Silversmith
+Bladesmith
+Bodyguard
+Bookbinder
+Bounty Hunter
+Brewer
+Butcher
+Capenter
+Carriage Driver
+Cheesemaker
+City Guard
+Cook
+Cooper
+Detective
+Diplomat
+Dressmaker
+Dyer
+Fisherman
+Fletcher
+Florist
+Footman
+Gardener
+Gladiator
+Glazier
+Hatter
+Healer
+Spell Maker
+Enchanter
+Jester
+Jeweler
+Maid
+Locksmith
+Logger
+Mapmaker
+Master of Ceremonies
+Cloth Merchant
+Jewel Merchant
+Food Merchant
+Midwife
+Miner
+Musician
+Necromancer
+Priest
+Nurse
+Painter
+Papermaker
+Pirate
+Potioneer
+Potter
+Prisoner
+Prophet
+Ropemaker
+Saddler
+Sailor
+Sculptor
+Servant
+Shipwright
+Shoemaker
+Shopowner
+Smuggler
+Soldier
+Spy
+Stable Hand
+Stonemason
+Surgeon
+Sweet Maker
+Tailor
+Tanner
+Taxman
+Thief
+Toymaker
+Trapper
+Tutor
+Undertaker
+Weapons Instructor
+Weaver
+Wheelwright
+Witch/Wizard
